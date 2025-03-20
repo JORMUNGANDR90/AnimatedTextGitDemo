@@ -1,3 +1,5 @@
+// UH OH!
+// Creates 3 consants r, g, b
 function randomRGB() {
   const r = Math.floor(Math.random() * 256);
   const g = 0;

@@ -1,16 +1,18 @@
+/* This will display the GITHUB text in the center of the page */
 body {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: olive;
+    background-color: #29bcf198;
 } 
-
+/* This sets all text in the h1 header tag to 20rem and the font-family to Montserrat */
 h1 {
     font-size: 20rem;
     font-family: Montserrat;
 }
-
+/* Makes the letters in class letter periodically change color SET TO 1000ms*/
+/* If you change the rate, please change the above comment as well, thank you! :) */
 .letter {
     transition: color 1000ms;
 }
