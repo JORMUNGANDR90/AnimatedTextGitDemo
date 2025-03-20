@@ -1,1 +1,1 @@
-#AnimatedTextGitDemo
+# AnimatedTextGitDemo
