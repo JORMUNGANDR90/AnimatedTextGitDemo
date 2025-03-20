@@ -5,8 +5,6 @@ function randomRGB() {
   return `rgb(${r}, ${g}, ${b})`;
 }
 
-
-
 // To change each letter independently
 const letters = document.querySelectorAll('.letter');
 const intervalId = setInterval(function() {
